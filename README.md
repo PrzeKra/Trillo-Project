@@ -1,3 +1,3 @@
 # Trillo-Project
 
-Master Fexbox Udemy Course
+Master Flexbox Udemy Course
